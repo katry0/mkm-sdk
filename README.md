@@ -2,7 +2,7 @@
 
 This is fork of mkm-sdk project [Original repo](https://github.com/silvanocerza/mkm-sdk).<br>
 
-This fork was created to update the endpoint address in the mkm library, as the maintainer of the original project has not yet responded.
+This fork was created to update the endpoint address in the mkm library, as the maintainer of the original project has not yet responded to [PR](https://github.com/silvanocerza/mkm-sdk/pull/2).
 
 
 # Magic Kard Market Python SDK
