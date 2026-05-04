@@ -50,12 +50,12 @@ keywords = " ".join(
 )
 
 setup(
-    name="mkmsdk2",
+    name="mkmsdk",
     version=version,
-    author="Najada",
+    author="Silvano Cerza",
     packages=find_packages(exclude=["docs", "tests*"]),
     scripts=[],
-    url="https://github.com/katry0/mkm-sdk",
+    url="https://github.com/silvanocerza/mkm-sdk",
     license="MIT",
     description="MagicKardMarket sdk",
     long_description=LONG_DESCRIPTION,
